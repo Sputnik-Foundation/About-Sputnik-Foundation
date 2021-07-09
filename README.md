@@ -1,4 +1,4 @@
-![Sputnik_Foundation](https://user-images.githubusercontent.com/38581319/125031327-c62fd980-e08c-11eb-99a9-5b4476dac14d.png)
+![photo_2021-07-09_09-43-51](https://user-images.githubusercontent.com/38581319/125042498-3133dd00-e09a-11eb-9726-3c4daed58537.jpg)
 
 # About-Sputnik-Foundation
 We have an idea, and we want to share it with you
