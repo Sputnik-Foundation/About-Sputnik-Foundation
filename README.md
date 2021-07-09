@@ -1,7 +1,7 @@
 ![photo_2021-07-09_09-43-51](https://user-images.githubusercontent.com/38581319/125042498-3133dd00-e09a-11eb-9726-3c4daed58537.jpg)
 
 # Sputnik Foundation
-We bring technologies and opportunities for sel-educationhave for those who will bring changes to this World
+We bring technologies and opportunities for self-education for those who will bring changes to this World
 
 ## Introduction
 We are in a transition period from an Industrial Paradigm to a Digital Paradigm. <br />
@@ -37,7 +37,7 @@ Therefore, we created the Sputnik Foundation, which will help prepare the enviro
 5. Researching the process of self-education and creating a methodology for self-education that can be used by people around the world.
 
 **The Action Plan:**
-1. Rent and prepare a place for self-education. The room should be spacious for minimum ten people and have an electricity and internet connection. With access to water and food for people in the process of self-learning.
+1. Rent and prepare a place for self-education. The room should be spacious for a minimum ten people and have an electricity and internet connection. With access to water and food for people in the process of self-learning.
 2. Purchase tables, chairs and computers for at least ten people, and place them in a space for self-education, preferably in a circle, but not linear (from the first rows to the last).
 3. Gather the first group of at least 10 people who want to engage in self-education. The recruitment should be based on a written essay, in which those, who are wishing to access the space, should describe their motivation, and also answer the question of why they should get free access to the space, not somebody else. Also, the recruitment of the first group should proceed from the desire to achieve gender balance (50% of the group should be feminine and 50% masculine). In case that there are many more interested persons than the space can accommodate, conduct an additional interview. Preference is given to those who have basic knowledge of English and mathematics.
 4. Give the group complete freedom to educate themselves, but at the same time hold online meetings with developers and enthusiasts from various digital projects that have already achieved success, 2-4 times in a month. These meetings will be recorded, and educational materials will be created from them, which will be posted on the Internet for public access. The Sputnik Foundation is responsible for finding developers and enthusiasts, as well as for preparing and posting educational materials.
